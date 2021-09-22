@@ -7,6 +7,6 @@ num2 = float(input())
 resultado = 0
 if entrada == "suma":
   resultado = num1 + num2
-else:
+elif operacion == "resta" :
   resultado = num1 - num2
 print("el resultado de la", entrada, "es", resultado)
