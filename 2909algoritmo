@@ -1,11 +1,29 @@
-#Dame el numero 1:
+Dame el numero 1:
+7
+Dame el numero 2:
+7
+Dame el numero 3:
+7
+Dame el numero 4:
+7
+Dame el numero 5:
+7
+Dados los datos, el promedio seria: 7
 
-#Dame el numero 2:
+Algoritmo:
 
-#Dame el numero 3:
-
-#Dame el numero 4:
-
-#Dame el numero 5:
-
-#Dados los datos, el promedio seria: 7
+1.- Inicio
+2.- Definir promedio, numero1, numero2, numero3, numero4, numero5
+3.- Imprimir "dame el numero 1"
+4.- Hacer numero1 = entrada del usuario
+5.- Imprimir "dame el numero 2"
+6.- Hacer numero2 = entrada del usuario
+7.- Imprimir "dame el numero 3"
+8.- Hacer numero3 = entrada del usuario
+9.- Imprimir "dame el numero 4"
+10.- Hacer numero4 = entrada del usuario
+11.- Imprimir "dame el numero 5"
+12.- Hacer numero5 = entrada del usuario
+13.- Hacer promedio = (num1 + num2 + num3 + num4 +num5) / 5
+14.- Imprimir "Dado los datos, el promedio seria:" + promedio)
+15.- Fin
