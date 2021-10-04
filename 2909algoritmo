@@ -1,29 +1,18 @@
-Dame el numero 1:
-7
-Dame el numero 2:
-7
-Dame el numero 3:
-7
-Dame el numero 4:
-7
-Dame el numero 5:
-7
-Dados los datos, el promedio seria: 7
-
-Algoritmo:
-
-1.- Inicio
-2.- Definir promedio, numero1, numero2, numero3, numero4, numero5
-3.- Imprimir "dame el numero 1"
-4.- Hacer numero1 = entrada del usuario
-5.- Imprimir "dame el numero 2"
-6.- Hacer numero2 = entrada del usuario
-7.- Imprimir "dame el numero 3"
-8.- Hacer numero3 = entrada del usuario
-9.- Imprimir "dame el numero 4"
-10.- Hacer numero4 = entrada del usuario
-11.- Imprimir "dame el numero 5"
-12.- Hacer numero5 = entrada del usuario
-13.- Hacer promedio = (num1 + num2 + num3 + num4 +num5) / 5
-14.- Imprimir "Dado los datos, el promedio seria:" + promedio)
-15.- Fin
+print("vamos a ver el promedio de 5 numeros")
+print("Dame el numero 1:")
+num1 = input()
+print("Dame el numero 2:")
+num2 = input()
+print("Dame el numero 3:")
+num3 = input()
+print("Dame el numero 4:")
+num4 = input()
+print("Dame el numero 5:")
+num5 = input()
+float(num1)
+float(num2)
+float(num3)
+float(num4)
+float(num5)
+promedio = (num1 + num2 + num3 + num4 + num5)/5
+print("Dado los datos obtenidos el promedio es de:" + promedio)
