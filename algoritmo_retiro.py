@@ -6,4 +6,4 @@ edad_de_retiro = int(input())
 anios_para_retiro = edad_de_retiro - edad_actual
 anio_de_retiro = anio_actual + anios_para_retiro
 print("tienes", anios_para_retiro, "años antes de que te puedas retirar")
-print("lo podras ahcer en el año", anio_de_retiro)
+print("lo podras hacer en el año", anio_de_retiro)
